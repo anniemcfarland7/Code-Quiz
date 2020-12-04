@@ -12,7 +12,7 @@ Repository URL: https://github.com/anniemcfarland7/Code-Quiz
 
 The following image shows the web application's initial appearance:
 
-![Web Screenshot](./Assets/screenshot.png)
+![Web Screenshot](./assets/screenshot.png)
 
 
 
