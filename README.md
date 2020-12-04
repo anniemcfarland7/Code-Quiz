@@ -2,7 +2,7 @@
 
 ## Description 
 
-If you are progressing in becoming a full-stack web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
+If you are progressing as a full-stack web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
 
 To help you become familiar with these tests and give you a chance to apply the skills from this module, this is a timed test similar to what you may come across.
 
