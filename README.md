@@ -2,7 +2,11 @@
 
 ## Description 
 
-This repository contains a random password generator website. Employees who have access to sensitive data need strong passwords on a regular basis, so that they can provide greater security. In order to obtain a strong password, certain criteria is necessary and this application will allow a random generation of just that. The user will simply need to click the "Generate Password" button, and a series of prompts will begin. Once finished, a random, unique, and secure password will be written on the page.
+If you are progressing as a full-stack web developer, it’s likely that you’ll be asked to complete a coding assessment, perhaps as part of an interview process. A typical coding assessment is a combination of multiple-choice questions and interactive coding challenges. 
+
+To help you become familiar with these tests and give you a chance to apply the skills from this module, this is a timed test similar to what you may come across.
+
+The user will simply need to click the "Start Quiz" button, and a series of questions will begin. Once finished, you can save your score and initials.
 
 Website URL: https://anniemcfarland7.github.io/Code-Quiz/
 
@@ -12,7 +16,7 @@ Repository URL: https://github.com/anniemcfarland7/Code-Quiz
 
 The following image shows the web application's initial appearance:
 
-![Web Screenshot](./Assets/screenshot.png)
+![Web Screenshot](./assets/screenshot.png)
 
 
 
